@@ -10,7 +10,7 @@ This repository contains the dataset and code of the paper:
 
 
 ## Datasets
-We are updaing this repository. Please stay tuned! But feel free to contact me (pzou3@uic.edu) if you need the dataset or code urgently.
+We are still building and updaing this repository. Please stay tuned! But feel free to contact me (pzou3@uic.edu) if you need the dataset or code urgently.
 
 ## Bugs or Questions
 
