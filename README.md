@@ -20,17 +20,10 @@ If you have any questions related to the dataset or the paper, feel free to emai
 ## Citation
 If you find this repository helpful, please consider citing our paper 💕: 
 ```bibtex
-@inproceedings{zou2024implicitave,
+@article{zou2024implicitave,
     title={ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction},
-    author={Henry Peng Zou, Vinay Samuel, Yue Zhou, Weizhi Zhang, Liancheng Fang, Zihe Song, Philip S. Yu, Cornelia Caragea},
-    booktitle={ArXiv; Under Review},
-    year={2024}
-}
-
-@inproceedings{zou2024eiven,
-    title={EIVEN: Efficient Implicit Attribute Value Extraction using Multimodal LLM},
-    author={Henry Peng Zou, Gavin Heqing Yu, Ziwei Fan, Dan Bu, Han Liu, Peng Dai, Dongmei Jia, Cornelia Caragea},
-    booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track},
+    author={Henry Peng Zou and Vinay Samuel and Yue Zhou and Weizhi Zhang and Liancheng Fang and Zihe Song and Philip S. Yu and Cornelia Caragea},
+    journal={arXiv preprint arXiv:2404.15592},
     year={2024}
 }
 ```
