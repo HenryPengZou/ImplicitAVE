@@ -12,7 +12,7 @@ This repository contains the dataset and code of the paper:
 ## Datasets
 We are still building and updaing this repository. Please stay tuned! We plan to release our dataset and code around May.15. But feel free to contact me (pzou3@uic.edu) if you need the dataset or code urgently.
 
-Update 1: Our evaluation and training data are now available! We will add our code very soon~
+Update 1: Our evaluation and training data are now available! The inference code we used for GPT-4V is also released. We will add other code very soon~
 
 ## Bugs or Questions
 
