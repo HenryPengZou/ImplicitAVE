@@ -1,0 +1,53 @@
+{
+    "Form": [
+        "Sliced",
+        "Rub",
+        "Soup Mix",
+        "Bags/Packets",
+        "Teabags",
+        "Powder",
+        "Bottles",
+        "Flakes",
+        "Sticks"
+    ],
+    "Candy Variety": [
+        "Taffy",
+        "Hard Candy",
+        "Licorice",
+        "Gummy/Chewy",
+        "Gum",
+        "Mint",
+        "Mints",
+        "Jelly Beans",
+        "Lollipop"
+    ],
+    "Container": [
+        "Bag",
+        "Box",
+        "Tin",
+        "Case"
+    ],
+    "Occasion": [
+        "Christmas",
+        "Easter",
+        "Other Holiday",
+        "Halloween",
+        "Valentine's"
+    ],
+    "Flavor": [
+        "Butter",
+        "Peanut Butter",
+        "Chocolate",
+        "Vanilla",
+        "Salted",
+        "Original",
+        "Habanero",
+        "Strawberry",
+        "Caramel",
+        "Lemon",
+        "Honey Roasted",
+        "Sriracha",
+        "Teriyaki",
+        "Chipotle"
+    ]
+}

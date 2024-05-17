@@ -1,0 +1,98 @@
+{
+    "Sleeve Style": [
+        "3/4 Sleeve",
+        "Long Sleeve",
+        "Short Sleeve",
+        "Sleeveless",
+        "Strappy"
+    ],
+    "Neckline": [
+        "Button Down",
+        "Cowl Neck",
+        "Crew Neck",
+        "Halter",
+        "Henley",
+        "Polo",
+        "Scoop Neck",
+        "Square Neck",
+        "Strapless",
+        "Turtleneck",
+        "V-Neck"
+    ],
+    "Length": [
+        "Capri",
+        "Long Dress/Gown",
+        "Midi",
+        "Mini/Short"
+    ],
+    "Shoulder Style": [
+        "Cold Shoulder",
+        "Off Shoulder",
+        "One Shoulder"
+    ],
+    "Shaft Height": [
+        "Ankle Boot",
+        "Bootie",
+        "Knee High",
+        "Mid Calf",
+        "Over The Knee"
+    ],
+    "Athletic Shoe Style": [
+        "Basketball",
+        "Climbing Shoe",
+        "Cycling",
+        "Golf",
+        "Hiking Boot",
+        "Running Shoe",
+        "Skateboarding Shoe",
+        "Soccer",
+        "Tennis",
+        "Training Shoe",
+        "Volleyball",
+        "Walking"
+    ],
+    "Boot Style": [
+        "Chelsea",
+        "Combat",
+        "Western/Cowboy",
+        "Motorcycle",
+        "Rain Boots",
+        "Snow Boots"
+    ],
+    "Heel Height": [
+        "Flat",
+        "High Heel",
+        "Low Heel",
+        "Mid Heel"
+    ],
+    "Toe Style": [
+        "Pointed Toe",
+        "Round Toe"
+    ],
+    "Pattern": [
+        "Argyle",
+        "Camouflage",
+        "Leopard",
+        "Emoji",
+        "Floral",
+        "Galaxy",
+        "Paisley",
+        "Plaid",
+        "Polka Dot",
+        "Stripe"
+    ],
+    "Material": [
+        "Canvas",
+        "Leather",
+        "Metal",
+        "Synthetic",
+        "Wooden"
+    ],
+    "Shape": [
+        "Cross",
+        "Crucifix",
+        "Heart",
+        "Oval",
+        "Round"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Season": [
+        "All Seasons",
+        "Autumn",
+        "Spring",
+        "Summer",
+        "Winter"
+    ],
+    "Material": [
+        "Bamboo",
+        "Ceramic/Melamine",
+        "Crystal",
+        "Fabric",
+        "Glass",
+        "Leather",
+        "Metal",
+        "Paper",
+        "Plastic",
+        "Resin",
+        "Silicone",
+        "Vinyl",
+        "Wood"
+    ],
+    "Location": [
+        "Bathroom",
+        "Bedroom",
+        "Garage",
+        "Kitchen"
+    ],
+    "Animal Theme": [
+        "Bird",
+        "Cat",
+        "Dog",
+        "Horse",
+        "Owl"
+    ],
+    "Special Occasion": [
+        "Birthday",
+        "Christmas",
+        "Easter",
+        "Graduation",
+        "Halloween",
+        "Patriotic",
+        "Thanksgiving",
+        "Wedding"
+    ],
+    "Size": [
+        "Full",
+        "King",
+        "Queen",
+        "Twin"
+    ],
+    "Attachment Method": [
+        "Grommet",
+        "Rod Pocket"
+    ],
+    "Shape": [
+        "Oval",
+        "Rectangular",
+        "Round",
+        "Square"
+    ]
+}
