@@ -12,6 +12,8 @@ This repository contains the dataset and code of the paper:
 ## Datasets
 We are still building and updaing this repository. Please stay tuned! We plan to release our dataset and code around May.15. But feel free to contact me (pzou3@uic.edu) if you need the dataset or code urgently.
 
+Update 1: Our evaluation and training data are now available! We will add our code very soon~
+
 ## Bugs or Questions
 
 If you have any questions related to the dataset or the paper, feel free to email Henry Peng Zou (pzou3@uic.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
