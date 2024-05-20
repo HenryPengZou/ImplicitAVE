@@ -10,13 +10,16 @@ This repository contains the dataset and code of the paper:
 
 
 ## Datasets
-We are still building and updaing this repository. Please stay tuned! We plan to release our dataset and code around May.15. But feel free to contact me (pzou3@uic.edu) if you need the dataset or code urgently.
+Our evaluation and training data are released in the [data](https://github.com/HenryPengZou/ImplicitAVE/tree/main/data) folder. For product images, please download them from the provided links in the corresponding folder and unzip them into the same folder.
 
-Update 1: Our evaluation and training data are now available! The inference code we used for GPT-4V is also released. We will add other code very soon~
+
+## Code
+The inference code we used for GPT-4V and BLIP-2, LLaVA, Qwen-VL, and Qwen-VL-Chat are provided in the [code](https://github.com/HenryPengZou/ImplicitAVE/tree/main/code) folder. You might need to change the paths to your own data paths and replace the model names with other variants you would like to use.
+
 
 ## Bugs or Questions
 
-If you have any questions related to the dataset or the paper, feel free to email Henry Peng Zou (pzou3@uic.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
+If you have any questions related to the dataset or the paper, feel free to email Henry Peng Zou (pzou3@uic.edu) and Vinay Samuel(vsamuel@andrew.cmu.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
 
 
 ## Citation
