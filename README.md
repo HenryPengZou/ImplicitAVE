@@ -5,7 +5,8 @@
 This repository contains the dataset and code of the paper:
 > **ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction** 
 > [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[ACL Anthology]]() [[OpenReview]]()  <br>
-> Under Review; ACL ARR Feb Scores: Soundness - 4/4/4, Overall Assessment - 4/3.5/3.5, Meta - 4 <br>
+> Under Review <br>
+> ACL ARR Feb Scores: Soundness - 4/4/4, Overall Assessment - 4/3.5/3.5, Meta - 4 <br>
 > Henry Peng Zou, Vinay Samuel, Yue Zhou, Weizhi Zhang, Liancheng Fang, Zihe Song, Philip S. Yu, Cornelia Caragea <br>
 
 
@@ -14,7 +15,9 @@ Our evaluation and training data are released in the [data](https://github.com/H
 
 
 ## Code
-The inference code we used for GPT-4V and BLIP-2, LLaVA, Qwen-VL, and Qwen-VL-Chat are provided in the [code](https://github.com/HenryPengZou/ImplicitAVE/tree/main/code) folder. You might need to change the paths to your own data paths and replace the model names with other variants you would like to use.
+The inference code we used for GPT-4V and [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2), [LLaVA](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [Qwen-VL-Chat]((https://github.com/QwenLM/Qwen-VL)) are provided in the [code](https://github.com/HenryPengZou/ImplicitAVE/tree/main/code) folder. 
+When running inference code for open-source MLLMs, please refer to the README in the corresponding projects ([BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2), [LLaVA](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [Qwen-VL-Chat]((https://github.com/QwenLM/Qwen-VL))) for environment setup and package installation. 
+You might need to change the paths to your own data paths and replace the model names with other variants you would like to use.
 
 
 ## Bugs or Questions
