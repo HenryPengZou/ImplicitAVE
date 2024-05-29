@@ -4,7 +4,7 @@
 
 This repository contains the dataset and code of the paper:
 > **ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction** 
-> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[ACL Anthology]]() [[OpenReview]]()  <br>
+> [[Paper]](https://arxiv.org/pdf/2404.15592) [[arXiv]](https://arxiv.org/abs/2404.15592) [[ACL Anthology]]() [[OpenReview]](https://openreview.net/forum?id=HSZjfit7sS)  <br>
 > Under Review <br>
 > ACL ARR Feb Scores: Soundness - 4/4/4, Overall Assessment - 4/3.5/3.5, Meta - 4 <br>
 > Henry Peng Zou, Vinay Samuel, Yue Zhou, Weizhi Zhang, Liancheng Fang, Zihe Song, Philip S. Yu, Cornelia Caragea <br>
