@@ -71,3 +71,6 @@ word2number==1.1
 xformers==0.0.26.post1
 zeno_client==0.1.16
 zstandard==0.22.0
+matplotlib
+scikit_learn
+torchvision
