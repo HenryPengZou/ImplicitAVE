@@ -21,5 +21,24 @@ pip install -r requirements.txt
 
 To start the inference and evaluation, simply run `Qwen_VL_7B.ipynb` and `Qwen_VL_Chat.ipynb` notebooks.
 
-
 You might need to change the paths to your own data paths and replace the model names with other variants you would like to use.
+
+
+## Bugs or Questions
+
+If you have any questions related to the dataset or the paper, feel free to email Henry Peng Zou (pzou3@uic.edu) and Vinay Samuel(vsamuel@andrew.cmu.edu). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
+
+
+## Citation
+If you find this repository helpful, please consider citing our paper 💕: 
+```bibtex
+@article{zou2024implicitave,
+    title={ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction},
+    author={Henry Peng Zou and Vinay Samuel and Yue Zhou and Weizhi Zhang and Liancheng Fang and Zihe Song and Philip S. Yu and Cornelia Caragea},
+    journal={arXiv preprint arXiv:2404.15592},
+    year={2024}
+}
+```
+
+## Acknowledgement
+This repo borrows some data and codes from [MAVE](https://github.com/google-research-datasets/MAVE), [LaVIN](https://github.com/luogen1996/LaVIN/tree/main) and [Llama](https://github.com/meta-llama/llama), [GPT-4V](https://platform.openai.com/docs/models), [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2), [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip), [LLaVA](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL). We appreciate their great works! <br>

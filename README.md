@@ -58,4 +58,4 @@ If you find this repository helpful, please consider citing our paper 💕:
 ```
 
 ## Acknowledgement
-This repo borrows some data and codes from [MAVE](https://github.com/google-research-datasets/MAVE), [LaVIN](https://github.com/luogen1996/LaVIN/tree/main) and [Llama](https://github.com/meta-llama/llama). We appreciate their great works! <br>
+This repo borrows some data and codes from [MAVE](https://github.com/google-research-datasets/MAVE), [LaVIN](https://github.com/luogen1996/LaVIN/tree/main) and [Llama](https://github.com/meta-llama/llama), [GPT-4V](https://platform.openai.com/docs/models), [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2), [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip), [LLaVA](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [Qwen-VL-Chat](https://github.com/QwenLM/Qwen-VL). We appreciate their great works! <br>
